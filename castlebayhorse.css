@@ -21,7 +21,7 @@
 
 sidebar {  box-sizing: border-box;
   color: #fff;
-  background-image: linear-gradient(225deg, #3f505e 20%,#0000), url('https://i.ibb.co/vzZXtnZ/Horse-barns-Project-by-Old-Town-Barns-tour-by-Stable-Style.webp');
+  background-image: linear-gradient(225deg, #3f505e 20%,#0000), url('https://i.ibb.co/xYF1YJP/Dutch-doors-Project-by-Old-Town-Barns-tour-by-Stable-Style.webp');
   flex: 1;
   background-size: cover; background-position: 46.7% 50% }
 
@@ -39,7 +39,7 @@ i {color: #59727d; }
 
 .tabcontent {
   font-size: 13px;
-  text-transform: lowercase;
+  
 }
 
 .ribbons b {
