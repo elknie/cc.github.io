@@ -11,6 +11,7 @@ sidebar a:hover { color: inherit; background-color: transparent; }
 sidebar i {
    color: #fff;
 }
+
 .tablinks i { color: #59727d; }
 
 .tabwrap { margin: 1.5rem 0; }
