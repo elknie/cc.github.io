@@ -1,5 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=IM+Fell+English&family=IM+Fell+English+SC&display=swap');
 
+sidebar {  box-sizing: border-box;
+  color: #fff;
+  background-image: linear-gradient(225deg, #3f505e 20%,#0000), url('https://i.ibb.co/vzZXtnZ/Horse-barns-Project-by-Old-Town-Barns-tour-by-Stable-Style.webp');
+  flex: 1;
+  background-size: cover; background-position: 46.7% 50% }
+
+sidebar a:hover { color: inherit; background-color: transparent; }
+
+sidebar i {
+   color: #fff;
+}
+.tablinks i { color: #59727d; }
+
+.tabwrap { margin: 1.5rem 0; }
+
+.tabcontent {
+  font-size: 13px;
+  text-transform: lowercase;
+}
+
+.ribbons b {
+  font-size: 1.3rem;
+  display: block;
+  line-height: 1;
+  margin: 0;
+  color: #59727d;
+}
+
+
 background-image: linear-gradient(225deg, var(--primary) 20%,#0000), var(--image);
 
 div.flex.fill.ribbons.centered {   font-size: 13px;   font-family: Cormorant; }
