@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-@media(max-width: 1000px) {  /* smol */ 
+@media(max-width: 1000px) {  /* smol */  
 	.tablinks i { font-size: 130% } .tablinks { padding: .5rem }  
   .horseshoe { width: 2rem; padding: .5rem }
   a.lightswitch { justify-content: center; }
