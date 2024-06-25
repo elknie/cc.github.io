@@ -66,9 +66,9 @@ div.flex.fill.ribbons.centered {   font-size: 13px;   font-family: Alegreya; }
 a { transition: .3s; text-decoration: none; color: #b09bb0; }
 a:hover { color: #728b96; }
 
-button.daisytablinks { color: #fff; }
-button.daisytablinks:hover { color: #e7e7e7; }
-button.daisytablinks.active { color: #e7e7e7!important; }
+button.daisytab1links { color: #fff; }
+button.daisytab1links:hover { color: #e7e7e7; }
+button.daisytab1links.active { color: #e7e7e7!important; }
 
 body { font-family: 'Alegreya'; }
 
@@ -88,7 +88,7 @@ color:#fff }
 .blue-edge {border-left:2px solid #415057; padding-left: 15px; margin-left: 15px;}
 
 /* Style the tab */
-.daisytab {
+.daisytab1 {
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #8c798c;
@@ -98,7 +98,7 @@ border-radius: 0.5rem;
 }
 
 /* Style the buttons that are used to open the tab content */
-.daisytab button {
+.daisytab1 button {
   background-color: inherit;
     float: inherit
 text-align: center;
@@ -113,7 +113,7 @@ color: #f1f1f1;
 }
 
 /* Change background color of buttons on hover */
-.daisytab button:hover {
+.daisytab1 button:hover {
   background-color: #415057;
 display: block;
     position: relative;
@@ -122,7 +122,7 @@ color: #f1f1f1;
 }
 
 /* Create an active/current tablink class */
-.daisytab button.active {
+.daisytab1 button.active {
   background-color: #415057;
 display: block;
     position: relative;
@@ -132,7 +132,7 @@ color: #f1f1f1;
 }
 
 /* Style the tab content */
-.daisycontent {
+.daisycontent1 {
   display: none;
   padding: 6px 12px;
   border: 1px solid #ccc;
