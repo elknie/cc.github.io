@@ -85,7 +85,7 @@ h4{ font-family: 'Vollkorn SC SC';
 font-size: 14px; letter-spacing: 2px; }  
 th { background-color:#587538;
 color:#fff }
-.orange-edge {border-left:2px solid #BC6C25; padding-left: 15px; margin-left: 15px;}
+.green-edge {border-left:2px solid #587538; padding-left: 15px; margin-left: 15px;}
 
 /* Style the tab */
 .daisytab1 {
