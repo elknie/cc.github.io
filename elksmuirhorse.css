@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Forum&display=swap');
 
 @media(max-width: 1000px) {  /* smol */  
-	.tablinks i { font-size: 130% } .tablinks { padding: .5rem }  
+	.tablinks i { font-size: 130% } .tablinks { padding: .5rem }   
   .horseshoe { width: 2rem; padding: .5rem }
   a.lightswitch { justify-content: center; }
   sidebar a { background: transparent; padding: .5rem; justify-content: center; }
