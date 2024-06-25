@@ -76,14 +76,14 @@ legend { font-family: 'Almendra'; }
 
 h1 { font-family: 'Almendra'; color:#b09bb0; letter-spacing: 1px; background: linear-gradient(90deg, #b09bb0 0%, transparent 33%, transparent 66%, #b09bb0 100%); }
 
-.progress { background: #415057; }
+.progress { background: #b09bb0; }
 
 h2 { font-family: 'Almendra'; font-size: 16px; letter-spacing: 2px; }  
 h3 { font-family: 'Almendra SC' ;
 font-size: 14px; letter-spacing: 2px; }  
 h4{ font-family: 'Almendra SC';
 font-size: 14px; letter-spacing: 2px; }  
-th { background-color:#415057;
+th { background-color:#8c798c;
 color:#fff }
 .blue-edge {border-left:2px solid #415057; padding-left: 15px; margin-left: 15px;}
 
@@ -91,7 +91,7 @@ color:#fff }
 .daisytab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #415057;
+  background-color: #8c798c;
 display: flex;
   justify-content: center;
 border-radius: 0.5rem;
