@@ -19,9 +19,6 @@
   h2 { margin-bottom: 1rem }
 }
 
-.horseshoe {
-    fill: var(#3f505e!important);
-
 sidebar {  box-sizing: border-box;
   color: #fff;
   background-image: linear-gradient(225deg, #3f505e 20%,#0000), url('https://i.ibb.co/xYF1YJP/Dutch-doors-Project-by-Old-Town-Barns-tour-by-Stable-Style.webp');
