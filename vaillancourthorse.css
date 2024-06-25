@@ -64,7 +64,7 @@ div.flex.fill.ribbons.centered {   font-size: 13px;   font-family: Alegreya; }
 }
 
 a { transition: .3s; text-decoration: none; color: #b09bb0; }
-a:hover { color: #728b96; }
+a:hover { color: #8c798c; }
 
 button.daisytab1links { color: #fff; }
 button.daisytab1links:hover { color: #e7e7e7; }
