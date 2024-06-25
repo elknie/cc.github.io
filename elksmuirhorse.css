@@ -90,7 +90,7 @@ h4{ font-family: 'Dawning of a New Day SC';
 font-size: 14px; letter-spacing: 2px; }  
 th { background-color:#4C5B5C;
 color:#fff }
-.purple-edge {border-left:2px solid #4C5B5C; padding-left: 15px; margin-left: 15px;}
+.red-edge {border-left:2px solid #86615C; padding-left: 15px; margin-left: 15px;}
 
 /* Style the tab */
 .daisytab1 {
