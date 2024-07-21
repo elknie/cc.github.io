@@ -48,7 +48,7 @@ i {color: #BC6C25; }
   display: block;
   line-height: 1;
   margin: 0;
-  color: #BC6C25;
+  color: #587538;
 }
 
 
@@ -76,7 +76,7 @@ legend { font-family: 'Vollkorn SC'; }
 
 h1 { font-family: 'Vollkorn SC'; color:#BC6C25; letter-spacing: 1px; background: linear-gradient(90deg, #BC6C25 0%, transparent 33%, transparent 66%, #BC6C25 100%); }
 
-.progress { background: #BC6C25; }
+.progress { background: #587538; }
 
 h2 { font-family: 'Vollkorn SC'; font-size: 16px; letter-spacing: 2px; }  
 h3 { font-family: 'Vollkorn SC SC' ;
