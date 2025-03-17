@@ -19,9 +19,13 @@
   h2 { margin-bottom: 1rem }
 }
 
+button, .button, input.btn {
+background: #3f505e;
+}
+
 sidebar {  box-sizing: border-box;
   color: #fff;
-  background-image: linear-gradient(225deg, #3f505e 20%,#0000), url('https://i.ibb.co/xYF1YJP/Dutch-doors-Project-by-Old-Town-Barns-tour-by-Stable-Style.webp');
+  background-image: linear-gradient(225deg, #3f505e 20%,#0000), url('https://i.imgur.com/gOCM8Gm.png');
   flex: 1;
   background-size: cover; background-position: 46.7% 50% }
 
