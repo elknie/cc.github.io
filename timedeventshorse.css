@@ -20,6 +20,38 @@
   h2 { margin-bottom: 1rem }
 }
 
+.tablinks i { color: #59727d; }
+
+.tabwrap { margin: 1.5rem 0; }
+
+.tabcontent {
+  font-size: 13px;
+  
+}
+
+.ribbons b {
+  font-size: 1.3rem;
+  display: block;
+  line-height: 1;
+  margin: 0;
+  color: #59727d;
+}
+
+
+background-image: linear-gradient(225deg, var(--primary) 20%,#0000), var(--image);
+
+div.flex.fill.ribbons.centered {   font-size: 13px;   font-family: Cormorant; }
+
+.writeup {
+  font-size: 13px;
+  font-family: Cormorant;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+
+a { transition: .3s; text-decoration: none; color: #59727d; }
+a:hover { color: #728b96; }
+
 
 button.daisytab1links { color: #fff; }
 button.daisytab1links:hover { color: #e7e7e7; }
