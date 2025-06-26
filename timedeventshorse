@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson Pro:ital,wght@0,400..900;1,400..900&family=Vollkorn SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@media(max-width: 1000px) {  /* smol */  
+	.tablinks i { font-size: 130% } .tablinks { padding: .5rem }  
+  .horseshoe { width: 2rem; padding: .5rem }
+  a.lightswitch { justify-content: center; }
+  sidebar a { background: transparent; padding: .5rem; justify-content: center; }
+  sidebar a i { display: block!important } 
+  sidebar a span { display: none }
+  nav {
+    display: block; text-align: left;
+  }
+  nav a {
+    display: block;
+    padding: .4rem;
+  }
+  h1, h2 { margin: 0; background: none; text-align: center;}
+  h1 { font-size: 2.6rem; height: auto!important; display: block; margin-top: 1rem }
+  h2 { margin-bottom: 1rem }
+}
+
+sidebar {  box-sizing: border-box;
+  color: #fff;
+  background-image: linear-gradient(225deg, #a37750 20%,#0000), url('https://i.ibb.co/5GsjFn6/dave-herring-Mdh-XJEa-E8-BQ-unsplash-1.jpg');
+  flex: 1;
+  background-size: cover; background-position: 46.7% 50% }
+
+sidebar a:hover { color: inherit; background-color: transparent; }
+
+sidebar i {
+   color: #fff;
+}
+
+i {color: #a37750; }
+
+.tablinks i { color: #a37750; }
+
+.tabwrap { margin: 1.5rem 0; }
+
+.tabcontent {
+  font-size: 13px;
+  
+}
+
+.ribbons b {
+  font-size: 1.3rem;
+  display: block;
+  line-height: 1;
+  margin: 0;
+  color: #587538;
+}
+
+
+background-image: linear-gradient(225deg, var(--primary) 20%,#0000), var(--image);
+
+div.flex.fill.ribbons.centered {   font-size: 13px;   font-family: Crimson Pro; }
+
+.writeup {
+  font-size: 13px;
+  font-family: Crimson Pro;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+
+a { transition: .3s; text-decoration: none; color: #a37750; }
+a:hover { color: #4c4d3f; }
+
+button.daisytab1links { color: #fff; }
+button.daisytab1links:hover { color: #e7e7e7; }
+button.daisytab1links.active { color: #e7e7e7!important; }
+
+body { font-family: 'Crimson Pro'; }
+
+legend { font-family: 'Vollkorn SC'; }
+
+h1 { font-family: 'Vollkorn SC'; color:#a37750; letter-spacing: 1px; background: linear-gradient(90deg, #a37750 0%, transparent 33%, transparent 66%, #a37750 100%); }
+
+.progress { background: #4c4d3f; }
+
+h2 { font-family: 'Vollkorn SC'; font-size: 16px; letter-spacing: 2px; }  
+h3 { font-family: 'Vollkorn SC SC' ;
+font-size: 14px; letter-spacing: 2px; }  
+h4{ font-family: 'Vollkorn SC SC';
+font-size: 14px; letter-spacing: 2px; }  
+th { background-color:#4c4d3f;
+color:#fff }
+.green-edge {border-left:2px solid #4c4d3f; padding-left: 15px; margin-left: 15px;}
+
+/* Style the tab */
+.daisytab1 {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #4c4d3f;
+display: flex;
+  justify-content: center;
+border-radius: 0.5rem;
+}
+
+/* Style the buttons that are used to open the tab content */
+.daisytab1 button {
+  background-color: inherit;
+    float: inherit
+text-align: center;
+margin: 0 auto;
+
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 12px;
+  transition: 0.3s;
+color: #f1f1f1;
+}
+
+/* Change background color of buttons on hover */
+.daisytab1 button:hover {
+  background-color: #4c4d3f;
+display: block;
+    position: relative;
+    float: left;
+color: #f1f1f1;
+}
+
+/* Create an active/current tablink class */
+.daisytab1 button.active {
+  background-color: #4c4d3f;
+display: block;
+    position: relative;
+    float: inherit
+text-align: center;
+color: #f1f1f1;
+}
+
+/* Style the tab content */
+.daisycontent1 {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
