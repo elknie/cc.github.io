@@ -20,22 +20,6 @@
   h2 { margin-bottom: 1rem }
 }
 
-sidebar {  box-sizing: border-box;
-  color: #fff;
-  background-image: linear-gradient(225deg, #a37750 20%,#0000), url('https://i.ibb.co/5GsjFn6/dave-herring-Mdh-XJEa-E8-BQ-unsplash-1.jpg');
-  flex: 1;
-  background-size: cover; background-position: 46.7% 50% }
-
-sidebar a:hover { color: inherit; background-color: transparent; }
-
-sidebar i {
-   color: #fff;
-}
-
-i {color: #a37750; }
-
-.tablinks i { color: #a37750; }
-
 .tabwrap { margin: 1.5rem 0; }
 
 .tabcontent {
