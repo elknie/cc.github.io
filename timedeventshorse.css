@@ -37,9 +37,9 @@
 }
 
 
-button.daisytab1links { color: #fff; }
-button.daisytab1links:hover { color: #e7e7e7; }
-button.daisytab1links.active { color: #e7e7e7!important; }
+button.daisytablinks { color: #fff; }
+button.daisytablinks:hover { color: #e7e7e7; }
+button.daisytablinks.active { color: #e7e7e7!important; }
 
 h1 { font-family: 'Tagesschrift'; } 
 h2 { font-family: 'Rye'; }  
@@ -49,7 +49,7 @@ color:#fff }
 .pink-edge {border-left:2px solid #D34B72; padding-left: 15px; margin-left: 15px;}
 
 /* Style the tab */
-.daisytab1 {
+.daisytab {
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #d48a83;
@@ -59,7 +59,7 @@ border-radius: 0.5rem;
 }
 
 /* Style the buttons that are used to open the tab content */
-.daisytab1 button {
+.daisytab button {
   background-color: inherit;
     float: inherit
 text-align: center;
@@ -74,7 +74,7 @@ color: #f1f1f1;
 }
 
 /* Change background color of buttons on hover */
-.daisytab1 button:hover {
+.daisytab button:hover {
   background-color: #d48a83;
 display: block;
     position: relative;
@@ -83,7 +83,7 @@ color: #f1f1f1;
 }
 
 /* Create an active/current tablink class */
-.daisytab1 button.active {
+.daisytab button.active {
   background-color: #97798b;
 display: block;
     position: relative;
