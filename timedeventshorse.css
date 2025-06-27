@@ -5,7 +5,7 @@
 	.tablinks i { font-size: 130% } .tablinks { padding: .5rem }  
   .horseshoe { width: 2rem; padding: .5rem }
   a.lightswitch { justify-content: center; }
-  sidebar a { background: transparent; padding: .5rem; justify-content: center; }
+  sidebar a { background: transparent; padding: .5rem; justify-content: center; font-family: 'Rye' }
   sidebar a i { display: block!important } 
   sidebar a span { display: none }
   nav {
