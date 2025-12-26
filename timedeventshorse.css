@@ -37,6 +37,20 @@
 }
 
 
+.custom-button {
+    background-color: #D34B72;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+
 button.daisytablinks { color: #fff; }
 button.daisytablinks:hover { color: #e7e7e7; }
 button.daisytablinks.active { color: #e7e7e7!important; }
