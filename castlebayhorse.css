@@ -33,6 +33,19 @@ body {
 font-family: 'Cormorant';
 }
 
+.card {
+    background: #fff;
+}
+
+:root {
+    --background: #fff;
+    --text: #000;
+    --link: #eee;
+    --accent-text: #000;
+    --on-accent: #fff;
+}
+
+.topbar-inner { color: #59727d; }
 
 a { transition: .3s; text-decoration: none; color: #59727d; }
 a:hover { color: #728b96; }
