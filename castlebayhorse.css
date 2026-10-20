@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=IM+Fell+English&family=IM+Fell+English+SC&display=swap');
- 
-@media(max-width: 1000px) {  /* smol */ 
-	.tablinks i { font-size: 130% } .tablinks { padding: .5rem }   
-  .horseshoe { fill: #59727d; }
-  a.lightswitch { justify-content: center; }
-  sidebar a { background: transparent; padding: .5rem; justify-content: center; }
-  sidebar a i { display: block!important }
-  sidebar a span { display: none }
-  nav {
-    display: block; text-align: left;
-  }
+
 
 button, .button, input.btn {
 background: #3f505e;
