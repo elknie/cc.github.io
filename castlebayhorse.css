@@ -26,7 +26,7 @@ i {color: #59727d; }
 
 
 body {
-	background: img('https://i.ibb.co/HTTbWcMn/andrew-charney-PZZ31take-SU-unsplash.jpg');
+	background-img: url('https://i.ibb.co/HTTbWcMn/andrew-charney-PZZ31take-SU-unsplash.jpg');
   background-repeat: no-repeat;
   background-position: center; 
   background-size: cover;  
